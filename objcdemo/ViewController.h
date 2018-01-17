@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <PaymentSDK/PaymentSDK-Swift.h>
 
 @interface ViewController : UIViewController
 
